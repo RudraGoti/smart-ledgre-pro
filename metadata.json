@@ -1,0 +1,8 @@
+{
+  "name": "SmartRTO - Digital Transport Services",
+  "description": "A comprehensive RTO services platform featuring AI-powered consulting, license mock tests, vehicle/license status tracking, and appointment management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
